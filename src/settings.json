@@ -1,0 +1,81 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "desired_outcome": "Users will gain better control over their schedules, leading to increased productivity and personal satisfaction. They will experience less stress and more fulfilling personal and professional lives.",
+        "pain_points": "Our product 'worklife' addresses the struggle of maintaining a balance between professional and personal life. It helps users manage their time effectively, reducing stress and preventing burnout.",
+        "subtitle": "Our solution helps you manage your professional and personal life seamlessly, ensuring you stay productive and stress-free.",
+        "title": "Achieve Work-Life Balance Effortlessly",
+        "unique_features": "Unlike other productivity tools, 'worklife' uses a holistic approach to balance both work and personal life, integrates seamlessly with existing tools, and offers personalized recommendations based on user behavior."
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife",
+        "title": "Elevate Your Worklife Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Elevate Your Worklife Experience",
+  "subtitle": "Transform Your Professional Journey with Innovative Solutions for a Balanced and Productive Worklife"
+}
